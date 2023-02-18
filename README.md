@@ -45,4 +45,8 @@
 
 &nbsp;
 
+# [_ТЕХНИЧЕСКОЕ ЗАДАНИЕ_](https://github.com/KlyapkoV/DVD_RENTAL_STORE/blob/main/tz-DVD_RENTAL_STORE.pdf)
+
+&nbsp;
+
 # [SQL-СКРИПТ ВЫПОЛНЕНИЯ ТЕХНИЧЕСКОГО ЗАДАНИЯ](https://github.com/KlyapkoV/DVD_RENTAL_STORE/blob/main/script.sql)
