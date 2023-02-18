@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/KlyapkoV/DVD_RENTAL_STORE/blob/main/images/logo.png">
 </p>
 
 
@@ -40,9 +40,9 @@
 
 # РАЗВЁРТЫВАНИЕ БАЗЫ ДАННЫХ:
 - ## [Инструкция по развёртыванию базы данных](https://www.postgresqltutorial.com/postgresql-getting-started/load-postgresql-sample-database)
-- ## [Архив с файлами для развёртывания базы данных]()
-- ## [ER-диаграмма]()
+- ## [Архив с файлами для развёртывания базы данных](https://github.com/KlyapkoV/DVD_RENTAL_STORE/blob/main/dvdrental.zip)
+- ## [ER-диаграмма](https://github.com/KlyapkoV/DVD_RENTAL_STORE/blob/main/ER-diagram.pdf)
 
 &nbsp;
 
-# [SQL-СКРИПТ ВЫПОЛНЕНИЯ ТЕХНИЧЕСКОГО ЗАДАНИЯ]()
+# [SQL-СКРИПТ ВЫПОЛНЕНИЯ ТЕХНИЧЕСКОГО ЗАДАНИЯ](https://github.com/KlyapkoV/DVD_RENTAL_STORE/blob/main/script.sql)
